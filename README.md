@@ -76,7 +76,7 @@
   <br>
   <i>Enjoying my work? Help keep me caffeinated! ☕️🍵</i>
   <br><br>
-<a href="https://www.buymeacoffee.com/emeshika" target="_blank">
+<a href="https://studio.buymeacoffee.com/dashboard/emeshika" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy Me A Coffee"/>
 </a>
 </p>
