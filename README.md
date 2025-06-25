@@ -77,6 +77,7 @@
   <i>Enjoying my work? Help keep me caffeinated! ☕️🍵</i>
   <br><br>
 <a href="https://studio.buymeacoffee.com/emeshih7" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy Me A Coffee"/>
+ <!-- Alternative URL format -->
+<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=emeshika&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
 </a>
 </p>
